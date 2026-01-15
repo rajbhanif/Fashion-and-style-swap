@@ -48,6 +48,6 @@ Le développement de cette application Full-Stack a impliqué de relever plusieu
 *   **UI & Composants** : RecyclerView, XML
 *   **Contrôle de Version** : Git
 
-## Auteur
+## Autrice
 **Raj Beghum Hanif**  
 Projet académique - Développement d'applications mobiles Android Full-Stack avec Kotlin et Firebase.
